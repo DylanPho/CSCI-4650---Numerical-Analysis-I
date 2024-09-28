@@ -5,7 +5,7 @@ A first-semester course in numerical methods and analysis fundamental to many al
 Prereq: MATH 3195 -  Linear Algebra and Differential Equations  (4 Credits)  
 
 # Course Goals
-Completion of this course has provided myself with
+Completion of this course has provided me with
 1. An understanding of the basic theory of solving mathematical problems with computers while being cognizant of
 floating-point arithmetic including issues of overflow and underflow.
 2. Knowledge of the different issues surrounding errors in numerical methods, including machine epsilon, error
@@ -14,3 +14,6 @@ analysis, convergence, rounding, truncation, and norms.
 estimating errors in solutions to judge how reliable those solutions are.
 4. An awareness of conditioning of problems and algorithms' stability and the distinction between the two.
 Programming Language
+
+
+Reality checks and coding work can be found here: https://drive.google.com/drive/folders/1suOM7tdSZUBaieZ6I2z5B0TOFLVGX55G?usp=sharing
