@@ -1,19 +1,15 @@
 # CSCI-4650---Numerical-Analysis-I
 
-A first-semester course in numerical methods and analysis fundamental to many algorithms encountered in scientific computing, data science, machine learning, and computational models in science and engineering. Rounding errors and numerical stability of algorithms; solution of linear and nonlinear equations; data modeling with interpolation and least-squares; and optimization methods.
+Design and analysis of various algorithms. Asymptotic analysis as a means of evaluating algorithm efficiency. The application of induction and other mathematical techniques for proving the correctness of an algorithm. Data structures for simplifying algorithm design, such as hash tables, heaps,and search trees. Elementary graph algorithms. Assignments include written work and programming projects.
 
-Prereq: MATH 3195 -  Linear Algebra and Differential Equations  (4 Credits)  
+Prereqs: 
+- CSCI 2312 – Programming topics in the C++ language
+- CSCI 2421 – Data Structures and Program Design
+- CSCI 2511 – Discrete Structure
 
 # Course Goals
-Completion of this course has provided me with
-1. An understanding of the basic theory of solving mathematical problems with computers while being cognizant of
-floating-point arithmetic including issues of overflow and underflow.
-2. Knowledge of the different issues surrounding errors in numerical methods, including machine epsilon, error
-analysis, convergence, rounding, truncation, and norms.
-3. An appreciation of the difficulties involved in finding reliable solutions as well as be able to apply various methods for
-estimating errors in solutions to judge how reliable those solutions are.
-4. An awareness of conditioning of problems and algorithms' stability and the distinction between the two.
-Programming Language
-
-
-Reality checks and coding work can be found here: https://drive.google.com/drive/folders/1suOM7tdSZUBaieZ6I2z5B0TOFLVGX55G?usp=sharing
+At the completion of the semester, the I will gain the following knowledge:
+1. Understand the design techniques of algorithms
+2. Understand how to analyze the performance of algorithms
+3. Be able to implement and test the algorithms discussed in the class
+4. Show the correctness and efficiency of algorithms
